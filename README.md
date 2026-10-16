@@ -5,7 +5,7 @@
   
 </div>
   
-Estudante de Ciência da Computação focado em Cibersegurança. Desenvolvendo conhecimentos em Python, SQL, Redes e Linux, buscando aplicar o aprendizado na prática por meio de projetos e laboratórios.
+Estudante de Ciência da Computação focado em Backend. Desenvolvendo conhecimentos em Python, SQL, Redes e Linux, buscando aplicar o aprendizado na prática por meio de projetos e laboratórios.
 
 ##
 
