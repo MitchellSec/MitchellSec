@@ -22,6 +22,8 @@ Estudante de Ciência da Computação focado em Backend. Desenvolvendo conhecime
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html&theme=dark&perline=15" alt="My Skills" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" alt="My Skills" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java&theme=dark&perline=15" alt="My Skills" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="My Skills" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux&theme=dark&perline=15" alt="My Skills" /></a> 
